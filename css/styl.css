@@ -68,6 +68,11 @@ h3{
     font-size: 50px;
     
 }
+h4
+{
+    font-size: 43px;
+    margin-top: 10px;
+}
 .wrd
 {
     font-size: 20px;
@@ -101,14 +106,7 @@ h3{
     float: right;
     width: 50%;
 }
-h5
-{
-    color: coral;
-    font-size: 50px;
-}
-h6{
-    font-size: 27px;
-}
+
 .dwn
 {
     font-size: 20px;
@@ -117,14 +115,15 @@ h6{
 .mobile
 {
     color: darkgray;
-    font-size: 20px;
+    font-size: 25px;
+    
 }
 .btn2
 {
      background-color: coral;
     color: white;
     text-align: center;
-    margin: 20px; 
+     margin: 10px;
     border: 2px solid white;
     padding: 15px;
     cursor: pointer;
@@ -133,4 +132,35 @@ h6{
 {
      width: 40%;
     float: right;
+}
+.step3
+{
+     margin : 65px;
+    float: left;
+    width: 50%;
+}
+.look
+{
+    font-size: 20px;
+    color: darkgray;
+}
+.headset
+{
+     color: darkgray;
+    font-size: 25px;
+}
+.btn3
+{
+    background-color: coral;
+    color: white;
+    text-align: center;
+     margin: 10px;
+    border: 2px solid white;
+    padding: 15px;
+    cursor: pointer;
+}
+.third
+{
+    width: 40%;
+    float: left; 
 }
