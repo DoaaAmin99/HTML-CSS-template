@@ -70,13 +70,13 @@ h3{
 }
 .wrd
 {
-    font-size: 16px;
+    font-size: 20px;
     color: darkgray;
 }
 .capture
 {
     color: darkgray;
-    
+    font-size: 27px;
     
 }
 .SUB
@@ -94,4 +94,43 @@ h3{
 {
     width: 40%;
     float: left;
+}
+.step2
+{
+     margin : 65px;
+    float: right;
+    width: 50%;
+}
+h5
+{
+    color: coral;
+    font-size: 50px;
+}
+h6{
+    font-size: 27px;
+}
+.dwn
+{
+    font-size: 20px;
+    color: darkgray;
+}
+.mobile
+{
+    color: darkgray;
+    font-size: 20px;
+}
+.btn2
+{
+     background-color: coral;
+    color: white;
+    text-align: center;
+    margin: 20px; 
+    border: 2px solid white;
+    padding: 15px;
+    cursor: pointer;
+}
+.second
+{
+     width: 40%;
+    float: right;
 }
