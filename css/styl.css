@@ -36,20 +36,18 @@
 .trailer:hover
 {
   background-color: white;
-    color: darkgray;
+    color: gray;
     transition-duration: 0.4s;
 
-}
-
-    
-h2
+}   
+.working
 {
     text-align: center;
 }
 .work
 {
     text-align: center;
-    color: darkgray;
+    color: gray;
 }
 hr
 {
@@ -76,11 +74,11 @@ h4
 .wrd
 {
     font-size: 20px;
-    color: darkgray;
+    color: gray;
 }
 .capture
 {
-    color: darkgray;
+    color: gray;
     font-size: 27px;
     
 }
@@ -110,11 +108,11 @@ h4
 .dwn
 {
     font-size: 20px;
-    color: darkgray;
+    color: gray;
 }
 .mobile
 {
-    color: darkgray;
+    color: gray;
     font-size: 25px;
     
 }
@@ -142,11 +140,11 @@ h4
 .look
 {
     font-size: 20px;
-    color: darkgray;
+    color: gray;
 }
 .headset
 {
-     color: darkgray;
+     color: gray;
     font-size: 25px;
 }
 .btn3
@@ -154,7 +152,7 @@ h4
     background-color: coral;
     color: white;
     text-align: center;
-     margin: 10px;
+    margin: 10px;
     border: 2px solid white;
     padding: 15px;
     cursor: pointer;
@@ -163,4 +161,119 @@ h4
 {
     width: 40%;
     float: left; 
+}
+.explore
+{
+    text-align: center;
+    color: coral;
+}
+.ed
+{
+    text-align: center;
+    color: gray;
+    font-size: 20px;
+}
+.reality
+{
+    text-align: center;
+    color: black;
+    font-size: 30px;
+}
+.lessons
+{
+    text-align: center;
+    color: gray;
+    margin: 40px;
+    font-size: 20px;
+}
+.main
+{
+    color: coral;
+    font-size: 80px;
+}
+.icon
+{
+  float: left;
+  width:30%;
+  padding: 22px;    
+  text-align: center;
+}
+.visuals
+{
+    color: gray;
+    font-size: 20px;
+}
+.icons
+{
+    margin: 6px;
+    clear: both;
+}
+.ipad
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.try
+{
+    color: whitesmoke;
+    font-size: 27px;
+}
+.event
+{
+    color: whitesmoke;
+    font-size: 60px;
+}
+.sign
+{
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+    text-align: center;
+    padding: 20px; 
+    cursor: pointer;
+    margin-top: 15px; 
+}
+.sign:hover
+{
+  background-color: white;
+    color: gray;
+    transition-duration: 0.4s;
+
+} 
+.last
+{
+    text-align: center;
+    background-color: coral;
+    padding: 100px;
+}
+.end
+{
+    text-align: center;
+    color: gray;
+    font-size: 25px;
+}
+.partner1
+{
+    width: 59%;
+}
+.partner2
+{
+    width: 40%;
+    height: 10%
+}
+.partner
+{
+    float: left;
+}
+.icon2
+{
+    text-align: center;
+    font-size: 30px;
+    padding: 50px;
+}
+.get
+{
+    text-align: center;
 }
